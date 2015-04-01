@@ -1,3 +1,5 @@
+machine_type: mira,burnupi
+
 overrides:
   ceph-deploy:
     conf:
